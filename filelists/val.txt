@@ -1,0 +1,8 @@
+./dataset/44k/ladygaga/137.wav
+./dataset/44k/rihanna/165.wav
+./dataset/44k/dojacat/289.wav
+./dataset/44k/ladygaga/546.wav
+./dataset/44k/ariana/136.wav
+./dataset/44k/rihanna/511.wav
+./dataset/44k/ariana/706.wav
+./dataset/44k/dojacat/710.wav

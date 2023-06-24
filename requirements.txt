@@ -1,0 +1,16 @@
+ffmpeg
+numpy
+pyworld
+scipy
+SoundFile
+torch
+torchaudio
+torchcrepe
+tqdm
+librosa
+tensorboard
+pydub
+matplotlib
+pyyaml
+faiss-cpu
+fairseq
